@@ -46,10 +46,8 @@ Download `慧学习_v1.36_android_arm64_release.apk` from the latest Release and
 
 ## 联系与许可 | Contact and licensing
 
-**联系 / Contact：**问题反馈请提交至 [GitHub Issues](https://github.com/heyPython2026/huixuexi/issues)。 / For questions or feedback, please use [GitHub Issues](https://github.com/heyPython2026/huixuexi/issues).
+联系邮箱 / Contact: [635873431@qq.com](mailto:635873431@qq.com)
 
-**许可 / License：**本应用当前未声明开源许可证；公开 APK 不代表授予源代码使用或修改权利。 / No open-source license is declared for the application; publishing this APK does not grant rights to use or modify its source code.
-
-第三方组件的许可文本见 [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) 和 [`third_party/pdfium/`](third_party/pdfium/)。 / Third-party license texts are available in [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) and [`third_party/pdfium/`](third_party/pdfium/).
+本项目未授予开源许可证。第三方组件的许可说明见 [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) 和 [`third_party/pdfium/`](third_party/pdfium/)。This project has no open-source license; see the third-party component notices linked above.
 
 本仓库只包含可下载的 APK 和用户说明，不包含应用源码或构建输入。 / This repository contains the downloadable APK and user-facing materials only; application source and build inputs are not published.
