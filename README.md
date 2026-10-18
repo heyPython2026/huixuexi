@@ -16,9 +16,9 @@ Hui Xue Xi is a local-first spaced-repetition app for Android. Record study item
 - 应用包名 / Package ID: `com.memorycurve.memory_curve`
 - 版本 / Version: `1.0.37` (build `37`)
 
-从最新 Release 下载 `慧学习_v1.37_android_arm64_release.apk`，然后按 Android 系统提示安装。系统可能要求先允许浏览器或文件管理器安装应用。
+从最新 Release 下载标注为“慧学习_v1.37_android_arm64_release.apk”的文件。下载文件名为 `HuiXueXi_v1.37_android_arm64_release.apk`，然后按 Android 系统提示安装。系统可能要求先允许浏览器或文件管理器安装应用。
 
-Download `慧学习_v1.37_android_arm64_release.apk` from the latest Release and follow Android's installation prompts. Android may ask you to allow installs from the browser or file manager.
+Download the asset labeled `慧学习_v1.37_android_arm64_release.apk` from the latest Release. Its downloaded filename is `HuiXueXi_v1.37_android_arm64_release.apk`; then follow Android's installation prompts.
 
 ## 功能 | Features
 
