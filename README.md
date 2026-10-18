@@ -44,12 +44,12 @@ Download `慧学习_v1.36_android_arm64_release.apk` from the latest Release and
 - This APK is signed with an Android Debug certificate, not a Google Play/production key. Upgrade compatibility with packages signed by another key is not guaranteed.
 - Flutter tests and the Android APK build passed for this release. No physical device was connected for install/startup verification.
 
-## 许可与反馈 | License and support
+## 联系与许可 | Contact and licensing
 
-本应用当前未声明开源许可证；公开 APK 不代表授予源代码使用或修改权利。第三方组件的许可文本见 [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) 和 [`third_party/pdfium/`](third_party/pdfium/)。
+**联系 / Contact：**问题反馈请提交至 [GitHub Issues](https://github.com/heyPython2026/huixuexi/issues)。 / For questions or feedback, please use [GitHub Issues](https://github.com/heyPython2026/huixuexi/issues).
 
-No open-source license is declared for the application; publishing this APK does not grant rights to use or modify application source code. Third-party notices are available in [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) and [`third_party/pdfium/`](third_party/pdfium/).
+**许可 / License：**本应用当前未声明开源许可证；公开 APK 不代表授予源代码使用或修改权利。 / No open-source license is declared for the application; publishing this APK does not grant rights to use or modify its source code.
 
-问题反馈 / Support: [GitHub Issues](https://github.com/heyPython2026/huixuexi/issues)
+第三方组件的许可文本见 [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) 和 [`third_party/pdfium/`](third_party/pdfium/)。 / Third-party license texts are available in [`THIRD_PARTY_NOTICES.txt`](THIRD_PARTY_NOTICES.txt) and [`third_party/pdfium/`](third_party/pdfium/).
 
 本仓库只包含可下载的 APK 和用户说明，不包含应用源码或构建输入。 / This repository contains the downloadable APK and user-facing materials only; application source and build inputs are not published.
